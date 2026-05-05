@@ -1,5 +1,6 @@
 # 🚀 Kubernetes Deployment Assignment
 
+
 ## 📌 Overview
 This project demonstrates deployment of a frontend application using Docker and Kubernetes with rolling updates.
 
@@ -54,3 +55,5 @@ k8s-assignment/
 ## 👨‍💻 Author
 
 Yaswanth
+=======
+---
