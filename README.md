@@ -19,3 +19,6 @@ Two versions of the application are implemented:
 
 ```bash
 docker build -t k8s-app:v1 app/v1/
+
+##🔹 Build Version 2
+docker build -t k8s-app:v2 app/v2/
